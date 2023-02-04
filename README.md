@@ -54,17 +54,13 @@ This project is created with mainly  Reactjs , In this  project mainly we have t
  2) My Flashcard page 
  3) Flashcad Details page  with  share page 
  ```
-- create fashcard page: 
-In create Flashcard page we used a Formik for creating input boxes and  for the validation we used Yup
+- create fashcard page:   In create Flashcard page we used a Formik for creating input boxes and  for the validation we used Yup
 
 
-- My Flashcard page:
-For the My flashcard page we saparately  design My Flashcard UI component and did maping the UI and input data in My flashcard
+- My Flashcard page:  For the My flashcard page we saparately  design My Flashcard UI component and did maping the UI and input data in My flashcard
 
 
-- FlashcardDetails page : 
-
- in the page we write a code for displaying Number of cards and details of cards  and  in the page we also 
+- FlashcardDetails page :  in the page we write a code for displaying Number of cards and details of cards  and  in the page we also 
  created share popup slide  with all social media Links 
    
 
