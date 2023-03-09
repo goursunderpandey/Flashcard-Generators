@@ -10,7 +10,7 @@ import {
   AiFillPrinter,
   AiFillCloseCircle,
 } from "react-icons/ai";
-import TabHands from "../assets/hands-tab.jpg";
+import TabHands from "../assets/hands-tab.jpeg";
 import Facebook from "../assets/facebook-icon.svg";
 import Linkedin from "../assets/linkedin-icon.svg";
 import Whatsapp from "../assets/whatsapp-icon.svg";

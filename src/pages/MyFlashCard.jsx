@@ -30,6 +30,11 @@ const MyFlashCard = () => {
             >
               See all
             </button>
+            <button
+               className="w-16 mt-1 font-semibold text-lg text-red-600 outline-none border-none active:outline-none active:border-none"
+               onClick={ () => setShowAll(!showAll)} >
+             delete 
+             </button>
           </div>
         </div>
       ) : (

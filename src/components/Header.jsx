@@ -1,13 +1,19 @@
 // this file will dispalying the logo for our institute ( Almabetter  )
 
 import React from "react";
-import logo from "../assets/BrandLogo.png";
+import logo from "../assets/BrandLogo1.png";
 
 const Header = () => {
   return (
-    <div className=" shadow-lg shadow-zinc-400 bg-white ">
-      <img className=" pt-3 pb-2 ml-5 sm:w-auto " src={logo} alt="logo" />
+    <div className=" bg-white ">
+    <div className="flow-root ">
+  
+      <img className="  float-left object-cover h-20 w-20  " src={logo} alt="logo" />
+      <button className="py-2 px-6  bg-red-600 text-white rounded-md mb-10 float-right " >
+                        Login/signin
+                      </button>
     </div>
+  </div>
   );
 };
 
